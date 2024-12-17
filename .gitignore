@@ -1,0 +1,11 @@
+# Example .gitignore
+*.log
+*.tmp
+*.lnk
+node_modules/
+.DS_Store
+__pycache__/
+*.exe
+*.tmp
+*.docx
+*.ini
